@@ -1,16 +1,21 @@
-### Hi there 👋
+# Prem Nagdeo
 
-<!--
-**premnagdeo/premnagdeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Third Year Bachelor of IT Engineering Student at Thadomal Shahani Engineering College, Mumbai with an interest in Technology and Cybersecurity.
 
-Here are some ideas to get you started:
+My projects range from [Cryptography](https://github.com/premnagdeo/Cryptography) to [Web development](https://github.com/premnagdeo/Resume-Builder-from-LinkedIn) to [Deep Learning](https://github.com/premnagdeo/Shakespeare-Sonnets-Generator).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## You can find me on:
+
+- [LinkedIn](https://www.linkedin.com/in/premnagdeo)
+
+- [CodeChef](https://www.codechef.com/users/premnagdeo)
+
+- [HackerRank](https://www.hackerrank.com/premnagdeo)
+
+- [LeetCode](https://leetcode.com/premnagdeo)
+
+- [Email](mailto:premnagdeo@gmail.com)
+
+<br>
+
+![Prem Nagdeo's github stats](https://github-readme-stats.vercel.app/api?username=premnagdeo&show_icons=true&hide=["stars","issues"])

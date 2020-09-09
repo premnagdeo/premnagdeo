@@ -1,6 +1,6 @@
 # Prem Nagdeo
 
-I'm a Third Year Bachelor of IT Engineering Student at Thadomal Shahani Engineering College, Mumbai with an interest in Technology and Cybersecurity.
+I'm a Final Year Bachelor of IT Engineering Student at Thadomal Shahani Engineering College, Mumbai with an interest in Technology and Cybersecurity.
 
 My projects range from [Cryptography](https://github.com/premnagdeo/Cryptography) to [Web development](https://github.com/premnagdeo/Resume-Builder-from-LinkedIn) to [Deep Learning](https://github.com/premnagdeo/Shakespeare-Sonnets-Generator).
 

@@ -18,4 +18,4 @@ My projects range from [Cryptography](https://github.com/premnagdeo/Cryptography
 
 <br>
 
-![Prem Nagdeo's github stats](https://github-readme-stats.vercel.app/api?username=premnagdeo&show_icons=true&hide=stars,issues)
+![Prem Nagdeo's github stats](https://github-readme-stats.vercel.app/api?username=premnagdeo&show_icons=true&count_private=true&hide=stars,issues)

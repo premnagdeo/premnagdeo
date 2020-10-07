@@ -1,7 +1,7 @@
+# Prem Nagdeo
 
 ![banner](banner.png)
 
-# Prem Nagdeo
 
 I'm a Final Year Bachelor of IT Engineering Student at Thadomal Shahani Engineering College, Mumbai with an interest in Technology and Cybersecurity.
 

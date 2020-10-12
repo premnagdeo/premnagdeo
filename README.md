@@ -14,6 +14,7 @@ My projects range from [Cryptography](https://github.com/premnagdeo/Cryptography
 
 ## You can find me on:
 
+&nbsp;&nbsp;&nbsp;&nbsp;
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/premnagdeo) &nbsp;&nbsp;&nbsp;&nbsp;
 [![CodeChef](https://img.shields.io/badge/codechef-62361C?&style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/premnagdeo)
 &nbsp;&nbsp;&nbsp;&nbsp;

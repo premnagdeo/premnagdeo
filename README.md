@@ -7,6 +7,11 @@ I'm a Final Year Bachelor of IT Engineering Student at Thadomal Shahani Engineer
 
 My projects range from [Cryptography](https://github.com/premnagdeo/Cryptography) to [Web Development](https://github.com/premnagdeo/Best-Deal-Finder) to [Deep Learning](https://github.com/premnagdeo/Shakespeare-Sonnets-Generator).
 
+<br>
+
+![Prem Nagdeo's github stats](https://github-readme-stats.vercel.app/api?username=premnagdeo&show_icons=true&count_private=true&hide=stars,issues)
+
+
 ## You can find me on:
 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/premnagdeo) &nbsp;&nbsp;&nbsp;&nbsp;
@@ -18,7 +23,3 @@ My projects range from [Cryptography](https://github.com/premnagdeo/Cryptography
 &nbsp;&nbsp;&nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:premnagdeo@gmail.com)
 
-
-<br>
-
-![Prem Nagdeo's github stats](https://github-readme-stats.vercel.app/api?username=premnagdeo&show_icons=true&count_private=true&hide=stars,issues)

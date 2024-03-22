@@ -3,14 +3,11 @@
 ![banner](banner.png)
 
 
-I'm a Final Year Bachelor of IT Engineering Student at Thadomal Shahani Engineering College, Mumbai with an interest in Technology and Cybersecurity.
+I'm a Python Software Engineer working at a High Frequency Trading Firm in India
 
 My projects range from [Cryptography](https://github.com/premnagdeo/Cryptography) to [Web Development](https://github.com/premnagdeo/Best-Deal-Finder) to [Deep Learning](https://github.com/premnagdeo/Shakespeare-Sonnets-Generator).
 
 <br>
-
-![Prem Nagdeo's github stats](https://github-readme-stats.vercel.app/api?username=premnagdeo&show_icons=true&count_private=true&hide=stars,issues)
-
 
 ## You can find me on:
 

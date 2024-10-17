@@ -1,7 +1,7 @@
 # Prem Nagdeo
 
 
-I'm a Python Software Engineer working at a High Frequency Trading Firm in India
+I'm a Python Software Engineer working at a Unciorn Startup. Previously worked with Deutsche Bank and a High Frequency Trading Firm.
 
 My projects range from [Cryptography](https://github.com/premnagdeo/Cryptography) to [Web Development](https://github.com/premnagdeo/Best-Deal-Finder) to [Deep Learning](https://github.com/premnagdeo/Shakespeare-Sonnets-Generator).
 
